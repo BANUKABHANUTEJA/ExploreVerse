@@ -58,5 +58,5 @@ ExploreVerse is a sleek and responsive blog listing webpage that showcases vario
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/ExploreVerse.git
+git clone https://github.com/BANUKABHANUTEJA/ExploreVerse.git
 
